@@ -1,5 +1,5 @@
 {
-  "name": "my-amazon-backend",
+  "name": "my-app",
   "version": "1.0.0",
   "description": "Simple backend",
   "main": "server.js",
