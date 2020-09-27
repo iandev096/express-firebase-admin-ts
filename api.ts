@@ -11,7 +11,7 @@ router.get('/', async (req, res) => {
     time: new Date().toUTCString()
   });
 
-  res.status(200).send('Hello, welcome to my-amazon-backend');
+  res.status(200).send('Hello, welcome to my-app');
 });
 
 export default router;
